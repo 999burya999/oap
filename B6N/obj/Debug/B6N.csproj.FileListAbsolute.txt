@@ -1,0 +1,20 @@
+C:\Users\AC1D-R4IN\Desktop\B6N\B6N\bin\Debug\B6N.exe.config
+C:\Users\AC1D-R4IN\Desktop\B6N\B6N\bin\Debug\B6N.exe
+C:\Users\AC1D-R4IN\Desktop\B6N\B6N\bin\Debug\B6N.pdb
+C:\Users\AC1D-R4IN\Desktop\B6N\B6N\obj\Debug\B6N.csprojResolveAssemblyReference.cache
+C:\Users\AC1D-R4IN\Desktop\B6N\B6N\obj\Debug\B6N.exe
+C:\Users\AC1D-R4IN\Desktop\B6N\B6N\obj\Debug\B6N.pdb
+C:\Users\1\Downloads\ОАП\B6N\B6N\bin\Debug\B6N.exe.config
+C:\Users\1\Downloads\ОАП\B6N\B6N\bin\Debug\B6N.exe
+C:\Users\1\Downloads\ОАП\B6N\B6N\bin\Debug\B6N.pdb
+C:\Users\1\Downloads\ОАП\B6N\B6N\obj\Debug\B6N.csprojAssemblyReference.cache
+C:\Users\1\Downloads\ОАП\B6N\B6N\obj\Debug\B6N.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\ОАП\B6N\B6N\obj\Debug\B6N.exe
+C:\Users\1\Downloads\ОАП\B6N\B6N\obj\Debug\B6N.pdb
+C:\Users\1\Downloads\весь оап\ОАП\6 Лаба\B6N\bin\Debug\B6N.exe.config
+C:\Users\1\Downloads\весь оап\ОАП\6 Лаба\B6N\bin\Debug\B6N.exe
+C:\Users\1\Downloads\весь оап\ОАП\6 Лаба\B6N\bin\Debug\B6N.pdb
+C:\Users\1\Downloads\весь оап\ОАП\6 Лаба\B6N\obj\Debug\B6N.csprojAssemblyReference.cache
+C:\Users\1\Downloads\весь оап\ОАП\6 Лаба\B6N\obj\Debug\B6N.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\весь оап\ОАП\6 Лаба\B6N\obj\Debug\B6N.exe
+C:\Users\1\Downloads\весь оап\ОАП\6 Лаба\B6N\obj\Debug\B6N.pdb
